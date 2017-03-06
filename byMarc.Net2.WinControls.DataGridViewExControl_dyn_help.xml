@@ -1,0 +1,3013 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="byMarc.Net2.WinControls.DataGridViewExControl" Title="byMarc.Net2.WinControls.DataGridViewExControl Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.AbortEdit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000E5.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AbortEdit Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.ActiveRows" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000B9.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ActiveRows Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.AddRow" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000B8.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AddRow Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.AfterClearSelection" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000FE.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AfterClearSelection Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.AfterDeleteSelection" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000FC.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AfterDeleteSelection Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.AfterPaste" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000F8.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AfterPaste Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.AllowUserAdvancedSort" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000F5.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AllowUserAdvancedSort Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.AllowUserToSelectColumns" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000103.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AllowUserToSelectColumns Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl.ApplyCellStyleToEditingControl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000002C.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ApplyCellStyleToEditingControl Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl.ApplyCellStyleToEditingControl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000007E.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ApplyCellStyleToEditingControl Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.Enumerable.ArrayContains(Of t)" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000113.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ArrayContains(Of t) Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.Enumerable.ArrayIndex" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000112.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ArrayIndex Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.AutoFilterActive" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000D7.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AutoFilterActive Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn.AutoFilterActive" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000020.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AutoFilterActive Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn.AutoFilterActive" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000042.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AutoFilterActive Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn.AutoFilterActive" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000004E.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AutoFilterActive Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn.AutoFilterActive" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000065.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AutoFilterActive Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn.AutoFilterActive" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000009A.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AutoFilterActive Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumn.AutoFilterActive" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000011B.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AutoFilterActive Property {byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExAutoFilterHeaderCell.AutoFilterEnabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000008.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AutoFilterEnabled Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExAutoFilterHeaderCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn.AutoFilterEnabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000022.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AutoFilterEnabled Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn.AutoFilterEnabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000044.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AutoFilterEnabled Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn.AutoFilterEnabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000053.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AutoFilterEnabled Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn.AutoFilterEnabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000064.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AutoFilterEnabled Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn.AutoFilterEnabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000093.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AutoFilterEnabled Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.AutoFilterEnabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000CF.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AutoFilterEnabled Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumn.AutoFilterEnabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000115.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AutoFilterEnabled Property {byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.AutoFilterItem" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000000D.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AutoFilterItem Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.AutoFilterItem.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000011.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AutoFilterItem Constructor {byMarc.Net2.WinControls.DataGridViewExControl.AutoFilterItem}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.AutoFilterItemComparer" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000012.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">AutoFilterItemComparer Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.BeforeClearSelection" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000FD.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">BeforeClearSelection Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.BeforeDeleteSelection" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000FB.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">BeforeDeleteSelection Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.BeforeMenuShown" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000E7.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">BeforeMenuShown Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.BeforePaste" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000F7.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">BeforePaste Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn.BeforeSort" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000056.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">BeforeSort Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExCustomSort.BeforeSort" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000121.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">BeforeSort Method {byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExCustomSort}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCellValidatingEventArgs.Cancel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000010D.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Cancel Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExColumnSelectionForm.Cancelled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000A1.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Cancelled Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn.CellTemplate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000026.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">CellTemplate Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditColumn.CellTemplate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000075.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">CellTemplate Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExProgressBarColumn.CellTemplate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000008A.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">CellTemplate Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExProgressBarColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.ClearAutoFilters" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000D6.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ClearAutoFilters Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.ClipboardCopyExceptionThrown" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000E6.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ClipboardCopyExceptionThrown Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn.Clone" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000021.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Clone Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn.Clone" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000043.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Clone Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn.Clone" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000052.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Clone Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn.Clone" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000069.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Clone Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn.Clone" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000008D.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Clone Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCellValidatingEventArgs.ColumnIndex" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000010C.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ColumnIndex Field {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCellValidatingEventArgs}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCustomSortParameters.ColumnIndex" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000AF.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ColumnIndex Field {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCustomSortParameters}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.UserState.ColumnIndex" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000012E.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ColumnIndex Field {byMarc.Net2.WinControls.DataGridViewExControl.UserState}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.ColumnSorter" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000009E.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ColumnSorter Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn.ColumnTitle" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000001C.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ColumnTitle Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn.ColumnTitle" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000003B.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ColumnTitle Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn.ColumnTitle" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000004A.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ColumnTitle Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn.ColumnTitle" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000060.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ColumnTitle Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn.ColumnTitle" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000008F.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ColumnTitle Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumnAlias.ColumnTitle" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000011D.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ColumnTitle Property {byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumnAlias}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.UserState.ColumnVisibility" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000130.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ColumnVisibility Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.ColumnVisibilityChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000105.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ColumnVisibilityChanged Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.ColumnsByDisplayOrder" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000C4.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ColumnsByDisplayOrder Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.AutoFilterItemComparer.Compare" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000013.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Compare Method {byMarc.Net2.WinControls.DataGridViewExControl.AutoFilterItemComparer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.ColumnSorter.Compare" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000009F.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Compare Method {byMarc.Net2.WinControls.DataGridViewExControl.ColumnSorter}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn.Compare" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000027.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Compare Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCustomSortComparer.Compare" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000A9.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Compare Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCustomSortComparer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn.Compare" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000006A.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Compare Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn.Compare" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000009B.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Compare Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.ComputeVisibleRows" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000D5.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ComputeVisibleRows Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.ConfirmRowDelete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000B6.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ConfirmRowDelete Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.ContextMenuItem" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000A4.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ContextMenuItem Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.ContextMenuItem.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000A7.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ContextMenuItem Constructor {byMarc.Net2.WinControls.DataGridViewExControl.ContextMenuItem}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.ContextMenuShowCut" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000EB.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ContextMenuShowCut Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.ContextMenuShowDeleteRows" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000E9.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ContextMenuShowDeleteRows Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.ContextMenuShowSelectAll" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000ED.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ContextMenuShowSelectAll Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.ContextMenuShowSelectColumn" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000EC.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ContextMenuShowSelectColumn Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.ContextMenuShowSelectRow" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000EE.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ContextMenuShowSelectRow Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.CopySelection" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000107_overloads--.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">CopySelection Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.CopySelection" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000106_overloads--.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">CopySelection Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.CutSelection" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000101.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">CutSelection Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExAutoFilterHeaderCell.DataGridView" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000009.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridView Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000B2.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewEx Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExAutoFilterForm" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000000.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExAutoFilterForm Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExAutoFilterHeaderCell" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000003.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExAutoFilterHeaderCell Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarCell" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000014.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExCalendarCell Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarCell.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000019.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExCalendarCell Constructor {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000001A.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExCalendarColumn Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000028.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExCalendarColumn Constructor {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000029.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExCalendarEditingControl Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000035.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExCalendarEditingControl Constructor {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCellValidatingEventArgs" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000010A.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExCellValidatingEventArgs Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCellValidatingEventArgs.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000110.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExCellValidatingEventArgs Constructor {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCellValidatingEventArgs}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxCell" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000036.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExCheckBoxCell Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000039.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExCheckBoxColumn Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000047.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExCheckBoxColumn Constructor {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExColumnSelectionForm" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000A0.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExColumnSelectionForm Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExColumnSelectionForm.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000A2.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExColumnSelectionForm Constructor {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExColumnSelectionForm}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000048.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExComboBoxColumn Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000057.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExComboBoxColumn Constructor {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxSortType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000058.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExComboBoxSortType Enumeration</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCustomSortComparer" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000A8.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExCustomSortComparer Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCustomSortComparer.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000AA.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExCustomSortComparer Constructor {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCustomSortComparer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCustomSortForm" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000AB.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExCustomSortForm Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCustomSortForm.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000AC.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExCustomSortForm Constructor {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCustomSortForm}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCustomSortParameters" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000AE.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExCustomSortParameters Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCustomSortParameters.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000B1.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExCustomSortParameters Constructor {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCustomSortParameters}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateCell" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000005B.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExDateCell Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000005E.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExDateColumn Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000006B.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExDateColumn Constructor {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditCell" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000006C.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExMaskedEditCell Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditCell.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000006D.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExMaskedEditCell Constructor {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditColumn" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000073.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExMaskedEditColumn Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditColumn.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000074.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExMaskedEditColumn Constructor {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000079.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExMaskedEditingControl Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000007A.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExMaskedEditingControl Constructor {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExProgressBarCell" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000086.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExProgressBarCell Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExProgressBarColumn" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000088.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExProgressBarColumn Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExProgressBarColumn.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000089.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExProgressBarColumn Constructor {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExProgressBarColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000008B.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExTextBoxColumn Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000009D.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DataGridViewExTextBoxColumn Constructor {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCellValidatingEventArgs.DatabaseValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000010F.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DatabaseValue Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarCell.DefaultNewRowValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000018.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DefaultNewRowValue Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditCell.DefaultNewRowValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000071.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DefaultNewRowValue Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumn.DefaultValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000116.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DefaultValue Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn.DefaultValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000001F.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DefaultValue Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn.DefaultValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000003F.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DefaultValue Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn.DefaultValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000004D.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DefaultValue Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn.DefaultValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000063.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DefaultValue Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn.DefaultValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000008E.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DefaultValue Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn.DefaultValue2" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000092.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DefaultValue2 Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.DeleteRow" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000100.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DeleteRow Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.DeleteSelection" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000FF.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DeleteSelection Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCustomSortParameters.Descending" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000B0.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Descending Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn.DisableSpacebarShortcut" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000003E.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DisableSpacebarShortcut Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.DisplayExceptions" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000E8.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DisplayExceptions Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.DisplayIndexOrder" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000C5.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DisplayIndexOrder Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExAutoFilterForm.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000002_overloads--.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Dispose Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExColumnSelectionForm.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000A3_overloads--.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Dispose Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCustomSortForm.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000AD_overloads--.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Dispose Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.PointLib.Distance" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000125.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Distance Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.DragAndDropEnabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000CA.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DragAndDropEnabled Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.DraggingCells" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000C7.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DraggingCells Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.DraggingRows" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000C6.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DraggingRows Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExAutoFilterHeaderCell.DropDownImageHeight" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000000C.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DropDownImageHeight Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExAutoFilterHeaderCell.DropDownImageWidth" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000000B.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">DropDownImageWidth Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.EditOnMouseDoubleClick" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000B5.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">EditOnMouseDoubleClick Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarCell.EditType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000016.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">EditType Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditCell.EditType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000006F.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">EditType Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl.EditingControlCursor" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000033.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">EditingControlCursor Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl.EditingControlCursor" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000084.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">EditingControlCursor Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl.EditingControlDataGridView" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000031.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">EditingControlDataGridView Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl.EditingControlDataGridView" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000082.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">EditingControlDataGridView Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl.EditingControlFormattedValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000002A.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">EditingControlFormattedValue Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl.EditingControlFormattedValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000007B.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">EditingControlFormattedValue Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl.EditingControlRowIndex" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000002D.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">EditingControlRowIndex Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl.EditingControlRowIndex" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000007F.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">EditingControlRowIndex Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl.EditingControlValueChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000032.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">EditingControlValueChanged Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl.EditingControlValueChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000083.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">EditingControlValueChanged Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl.EditingControlWantsInputKey" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000002E.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">EditingControlWantsInputKey Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl.EditingControlWantsInputKey" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000007C.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">EditingControlWantsInputKey Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.Enumerable" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000111.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Enumerable Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.ContextMenuItem.EventHandler" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000A6.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">EventHandler Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.ExportToExcel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000128.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ExportToExcel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.Fill" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000C0.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Fill Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.FilterApplied" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000D0.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">FilterApplied Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExAutoFilterHeaderCell.FilterCriteria" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000000A.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">FilterCriteria Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.FilterCriteriaChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000D9.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">FilterCriteriaChanged Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.FilterNow" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000D3.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">FilterNow Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.FindRowByObject" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000BF.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">FindRowByObject Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.FindRowByPrimaryKey" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000BE.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">FindRowByPrimaryKey Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.FindRowByValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000BD.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">FindRowByValue Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.UserState.FirstColumn" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000012C.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">FirstColumn Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.UserState.FirstRow" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000012B.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">FirstRow Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCellValidatingEventArgs.FormattedValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000010E.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">FormattedValue Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.FreezeCellValidation" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000E0.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">FreezeCellValidation Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn.GetAutoFilterValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000024.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">GetAutoFilterValue Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn.GetAutoFilterValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000045.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">GetAutoFilterValue Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn.GetAutoFilterValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000004F.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">GetAutoFilterValue Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn.GetAutoFilterValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000067.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">GetAutoFilterValue Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn.GetAutoFilterValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000095.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">GetAutoFilterValue Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumn.GetAutoFilterValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000117.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">GetAutoFilterValue Method {byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumn}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.GetColumnData(Of t)" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000BC_overloads--.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">GetColumnData(Of t) Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.GetColumnData(Of t)" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000BB_overloads--.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">GetColumnData(Of t) Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.GetDraggedCells" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000C9.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">GetDraggedCells Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.GetDraggedRows" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000C8.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">GetDraggedRows Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl.GetEditingControlFormattedValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000002B.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">GetEditingControlFormattedValue Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl.GetEditingControlFormattedValue" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000007D.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">GetEditingControlFormattedValue Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExAutoFilterHeaderCell.GetPreferredSize" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000004_overloads--.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">GetPreferredSize Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.GetRowTags(Of t)" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000BA.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">GetRowTags(Of t) Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExAutoFilterForm.HeaderCell" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000001.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">HeaderCell Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn.HeaderCell" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000023.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">HeaderCell Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn.HeaderCell" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000040.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">HeaderCell Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn.HeaderCell" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000051.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">HeaderCell Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn.HeaderCell" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000066.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">HeaderCell Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn.HeaderCell" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000094.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">HeaderCell Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumn.HeaderCell" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000118.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">HeaderCell Method {byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumn" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000114.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">IDataGridViewExColumn Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumnAlias" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000011C.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">IDataGridViewExColumnAlias Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExCustomSort" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000120.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">IDataGridViewExCustomSort Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumn.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000119.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Index Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn.Index1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000025.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Index1 Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn.Index1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000046.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Index1 Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn.Index1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000050.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Index1 Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn.Index1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000068.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Index1 Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn.Index1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000009C.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Index1 Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarCell.InitializeEditingControl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000015_overloads--.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">InitializeEditingControl Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditCell.InitializeEditingControl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000006E_overloads--.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">InitializeEditingControl Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExAutoFilterHeaderCell.IsSortDirectionShowing" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000007.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">IsSortDirectionShowing Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditColumn.Mask" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000076.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Mask Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.RectangleLib.OffsetRect" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000127.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OffsetRect Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.OnAfterPaste" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000FA.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnAfterPaste Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.OnBeforeMenuShown" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000F4.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnBeforeMenuShown Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.OnBeforePaste" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000F9.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnBeforePaste Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.OnCellEndEdit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000DE.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnCellEndEdit Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.OnCellValidating" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000E2.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnCellValidating Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn.OnCellValidatingEx" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000001B.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnCellValidatingEx Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn.OnCellValidatingEx" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000003A.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnCellValidatingEx Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn.OnCellValidatingEx" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000049.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnCellValidatingEx Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn.OnCellValidatingEx" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000005F.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnCellValidatingEx Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn.OnCellValidatingEx" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000008C.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnCellValidatingEx Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.OnCellValidatingEx" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000DF.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnCellValidatingEx Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumn.OnCellValidatingEx" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000011A.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnCellValidatingEx Method {byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxCell.OnContentClick" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000038.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnContentClick Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.OnFilterApplied" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000D1.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnFilterApplied Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.OnFilterCriteriaChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000D8.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnFilterCriteriaChanged Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.OnKeyDown" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000109.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnKeyDown Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxCell.OnKeyUp" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000037_overloads--.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnKeyUp Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExAutoFilterHeaderCell.OnMouseDown" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000005.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnMouseDown Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExAutoFilterHeaderCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.OnMouseDown" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000E4.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnMouseDown Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.OnMouseMove" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000CB.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnMouseMove Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.OnMouseUp" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000EA.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnMouseUp Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.OnRowPostPaint" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000DD.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnRowPostPaint Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.OnRowStateChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000D2_overloads--.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnRowStateChanged Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.OnSelectionChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000F0.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnSelectionChanged Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.OnSortCompare" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000B3.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnSortCompare Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl.OnTextChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000085.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnTextChanged Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl.OnValueChanged" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000034.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">OnValueChanged Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExAutoFilterHeaderCell.Paint" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000006_overloads--.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Paint Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditCell.Paint" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000072_overloads--.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Paint Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExProgressBarCell.Paint" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000087_overloads--.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Paint Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.PasteSelection" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000F6.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">PasteSelection Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.PointLib" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000124.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">PointLib Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl.PrepareEditingControlForEdit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000002F.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">PrepareEditingControlForEdit Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl.PrepareEditingControlForEdit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000080.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">PrepareEditingControlForEdit Method {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.PreserveCurrentUserState" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000C1.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">PreserveCurrentUserState Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.ProcessKeyDown" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000108.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ProcessKeyDown Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditColumn.PromptChar" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000078.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">PromptChar Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn.RadioButtonMode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000041.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">RadioButtonMode Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.RectangleLib" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000126.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">RectangleLib Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.RefreshSuspendCount" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000CC.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">RefreshSuspendCount Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl.RepositionEditingControlOnValueChange" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000030.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">RepositionEditingControlOnValueChange Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl.RepositionEditingControlOnValueChange" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000081.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">RepositionEditingControlOnValueChange Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditingControl}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.UserState.ResetCurrentCell" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000012D.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ResetCurrentCell Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.RestoreCurrentUserState" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000C2.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">RestoreCurrentUserState Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.ResumeRefresh" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000CE.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ResumeRefresh Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.RowCountMinusNewRow" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000B7.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">RowCountMinusNewRow Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCellValidatingEventArgs.RowIndex" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000010B.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">RowIndex Field {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCellValidatingEventArgs}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.UserState.RowIndex" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000012F.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">RowIndex Field {byMarc.Net2.WinControls.DataGridViewExControl.UserState}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.RowNumberBrush" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000DC.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">RowNumberBrush Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.RowNumberFont" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000DB.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">RowNumberFont Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.RowNumbersVisible" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000DA.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">RowNumbersVisible Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.SelectColumn" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000EF.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">SelectColumn Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.SelectRow" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000F1.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">SelectRow Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.ShowAdvancedSortDialog" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000102.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ShowAdvancedSortDialog Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.ShowContextMenu" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000F2.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ShowContextMenu Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.ShowSelectColumnsDialog" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000104.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ShowSelectColumnsDialog Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.Sort" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000B4_overloads--.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Sort Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn.SortCompare" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000055.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">SortCompare Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn.SortCompareMethod" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000096.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">SortCompareMethod Enumeration</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn.SortComparison" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000099.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">SortComparison Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn.SortType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000054.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">SortType Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.SpellCheck" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000129.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">SpellCheck Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.SuspendRefresh" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000CD.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">SuspendRefresh Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.SuspendRowStateChangedEvent" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000D4.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">SuspendRowStateChangedEvent Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.ContextMenuItem.Text" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000A5.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Text Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.AutoFilterItem.Text" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000000E.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Text Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.AutoFilterItem.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000010.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ToString Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.TripleClickPreventionEnabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000E3.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">TripleClickPreventionEnabled Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.UnfreezeCellValidation" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000E1.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">UnfreezeCellValidation Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn.UserAlias" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000001D.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">UserAlias Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn.UserAlias" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000003C.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">UserAlias Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn.UserAlias" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000004B.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">UserAlias Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn.UserAlias" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000061.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">UserAlias Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn.UserAlias" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000090.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">UserAlias Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumnAlias.UserAlias" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000011E.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">UserAlias Property {byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumnAlias}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn.UserAliasingEnabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000001E.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">UserAliasingEnabled Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn.UserAliasingEnabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000003D.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">UserAliasingEnabled Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCheckBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn.UserAliasingEnabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000004C.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">UserAliasingEnabled Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExComboBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn.UserAliasingEnabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000062.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">UserAliasingEnabled Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn.UserAliasingEnabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000091.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">UserAliasingEnabled Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExTextBoxColumn}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumnAlias.UserAliasingEnabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000011F.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">UserAliasingEnabled Property {byMarc.Net2.WinControls.DataGridViewExControl.IDataGridViewExColumnAlias}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.UserRefresh" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000F3.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">UserRefresh Event</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.UserState" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000012A.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">UserState Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.UserState.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000131.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">UserState Constructor {byMarc.Net2.WinControls.DataGridViewExControl.UserState}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditColumn.ValidatingType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000077.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ValidatingType Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.AutoFilterItem.Value" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000000F.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Value Property {byMarc.Net2.WinControls.DataGridViewExControl.AutoFilterItem}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateCell.Value" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000005D.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">Value Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarCell.ValueType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000017.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ValueType Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExCalendarCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateCell.ValueType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_000000000000005C.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ValueType Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExDateCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditCell.ValueType" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000070.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">ValueType Property {byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewExMaskedEditCell}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl.DataGridViewEx.VisibleRows" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_00000000000000C3.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">VisibleRows Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000133.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">byMarc.Net2.WinControls.DataGridViewExControl Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.WinControls.DataGridViewExControl Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.WinControls.DataGridViewExControl.chm::/topic_0000000000000132.html" LinkGroup="byMarc.Net2.WinControls.DataGridViewExControl">byMarc.Net2.WinControls.DataGridViewExControl Reference</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+
